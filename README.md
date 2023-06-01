@@ -28,6 +28,11 @@ Este programa te permite convertir montos en pesos argentinos a diferentes moned
 * javax.swing.JOptionPane: Esta librería proporciona clases para mostrar cuadros de diálogo y obtener información del usuario, como mensajes de confirmación, mensajes de advertencia y entradas de texto.
 
 
+## Capturas de Pantalla
+
+[![Imagen-Challenge1.png](https://i.postimg.cc/vTHdkCwP/Imagen-Challenge1.png)](https://postimg.cc/XGhhyHJF)
+
+[![Imagen-Challenge2.png](https://i.postimg.cc/pLyKRdBv/Imagen-Challenge2.png)](https://postimg.cc/Mn2nYq43)
 
 ### ¡Disfruta de la experiencia de convertir monedas de forma rápida y precisa con nuestro programa!
 
