@@ -7,7 +7,8 @@
 ## Sprint 01: Crea tu propio conversor de moneda.
 
 
-[![g1001.png](https://i.postimg.cc/L8V79nHQ/g1001.png)](https://postimg.cc/QFHSSNKc)
+[![g975.png](https://i.postimg.cc/SQwHVBTd/g975.png)](https://postimg.cc/Wtw91HPq)
+
 
 ¡Bienvenido al programa de conversión de moneda! Este desafío Java fue creado por Matías Cabrera para el curso de Alura G4.
 
